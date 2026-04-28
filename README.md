@@ -1,4 +1,4 @@
-Project_matrix
+Project_Matrix
 
 An educational module for understanding how partial differential equations (PDEs) can be solved using linear algebra methods.
 
